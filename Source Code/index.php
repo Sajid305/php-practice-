@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>First php</title>
 </head>
-<!-- <body>
+<body>
     <?php
     
     // echo("<h1>Hello World</h1>");
@@ -43,4 +43,4 @@
     ?>
 </body>
 </html>
- -->
+
