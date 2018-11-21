@@ -29,18 +29,18 @@
     // working with numbers
 
     // $number1 = 6;
-    // $number2 = 12;               // we can all short of math oparation like this
-    // $totalNumber = $number1+$number2;
-    // echo $totalNumber;
-    // echo 5*10;
-    // echo 10%3;
-    // echo 4 + 5 * 10;
-    // echo (4 + 5) * 10;
-    // $number1 = 6;
-    // $number1++;
-    // echo $number1;
+//     // $number2 = 12;               // we can all short of math oparation like this
+//     // $totalNumber = $number1+$number2;
+//     // echo $totalNumber;
+//     // echo 5*10;
+//     // echo 10%3;
+//     // echo 4 + 5 * 10;
+//     // echo (4 + 5) * 10;
+//     // $number1 = 6;
+//     // $number1++;
+//     // echo $number1;
     
-    ?>
-</body>
-</html>
+//     ?>
+// </body>
+// </html>
 
