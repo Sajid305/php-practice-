@@ -40,7 +40,7 @@
     // $number1++;
     // echo $number1;
     
-    ?>
-</body>
-</html>
+//     ?>
+// </body>
+// </html>
 
